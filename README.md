@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/BIntroduction-to-Blockchain-and-Ethereum.svg)](https://github.com/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum/issues)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum.svg)](https://github.com/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum.svg)](https://github.com/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum.svg)](https://github.com/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Introduction-to-Blockchain-and-Ethereum/pulls)
