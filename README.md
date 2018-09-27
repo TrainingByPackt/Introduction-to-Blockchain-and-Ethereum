@@ -5,7 +5,7 @@
 
 
 
-# Beginning Application Development with TensorFlow and Keras
+# Introduction to Blockchain and Ethereum
 Throughout the course, we will walk you through a detailed step-by-step process to create and develop an advanced smart contract with different complexity levels and hurdles. Each lesson will teach you just enough about ethereum to be productive right away. You will learn how tokenization works, how to think in decentralized way, and build blockchain-based distributed computing systems. You will build interesting projects with ethereum such as wallets, copyrights, secure data sharing, and more.By the end of this course, you will be able to tackle blockchain challenges by implementing end-to-end projects.
 
 
